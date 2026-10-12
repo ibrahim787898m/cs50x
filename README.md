@@ -9,7 +9,7 @@ My notes and reflections from [Harvard's CS50x](https://cs50.harvard.edu/x/), In
 | 0 | Scratch | [`week_0_scratch`](week_0_scratch) | Done | Done |
 | 1 | C | [`week_1_c`](week_1_c) | Done | Done |
 | 2 | Arrays | [`week_2_arrays`](week_2_arrays) | Done | Done |
-| 3 | Algorithms | [`week_3_algorithms`](week_3_algorithms) | Done | In progress |
+| 3 | Algorithms | | Done | In progress |
 | 4 | Memory | | Not started | Not started |
 | 5 | Data Structures | | Not started | Not started |
 | 6 | Python | | Not started | Not started |
